@@ -1,0 +1,4 @@
+/home/hunya/下载/clion-2025.2.3/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/hunya/下载/clion-2025.2.3/bin/ninja/linux/x64/ninja -G Ninja -S /home/hunya/CLionProjects/OpenCV_Project -B /home/hunya/CLionProjects/OpenCV_Project/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: /home/hunya/CLionProjects/OpenCV_Project/cmake-build-debug
